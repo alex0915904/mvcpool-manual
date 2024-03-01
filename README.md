@@ -20,7 +20,7 @@ MvcPool is an MVC-specialized mining pool supported by the founding members of M
 
 **AsicBoost** : Supported
 
-**Mining url** : mine.mvcpool.com:6666 (please register first)
+**Mining url** : mine.mvcpool.com:8654 (please register first)
 
 
 ## Steps
